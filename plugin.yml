@@ -1,0 +1,5 @@
+name: ZMShieldBinding
+main: com.zimujun.ZMShieldBinding.Main
+version: 1.1.2
+commands:
+  ZMPI:
